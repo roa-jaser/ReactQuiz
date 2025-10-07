@@ -1,5 +1,5 @@
  
-```
+```markdown
 # React Quiz App
 
 A simple interactive quiz application built with React. Users can answer multiple-choice questions, skip questions, and see a summary of their results at the end.
@@ -62,11 +62,13 @@ cd react-quiz-app
 npm install
 ```
 
-4. Start running on the server:
+4. Start running the project:
 
 ```bash
 npm run dev
 ```
+
+The app should now be running at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
@@ -78,5 +80,12 @@ npm run dev
 
 * You can edit `questions.js` to add or modify quiz questions.
 * Styles can be customized in `index.css`.
-؟
+
+## License
+
+This project is open source and available under the MIT License.
+
 ```
+
+
+ 
