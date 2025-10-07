@@ -81,10 +81,6 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 * You can edit `questions.js` to add or modify quiz questions.
 * Styles can be customized in `index.css`.
 
-## License
-
-This project is open source and available under the MIT License.
-
 ```
 
 
